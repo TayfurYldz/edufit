@@ -1,4 +1,1 @@
-module.exports = {
-  port: 3000,
-  mongoUri: process.env.MONGO_URI
-};
+module.exports = {mongoUri: process.env.MONGO_URI, port: process.env.PORT}
