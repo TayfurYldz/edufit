@@ -1,3 +1,3 @@
 # EduFit
 
-A health and fitness edtech platform.
+A platform for educators to create and share interactive learning experiences.
