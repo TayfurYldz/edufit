@@ -6,7 +6,7 @@ services:
     depends_on:
       - mongo
   mongo:
-    image: mongo:4.4
+    image: mongo:latest
     volumes:
       - mongo-data:/data/db
 volumes:
